@@ -272,6 +272,10 @@ section {
     background-image: url('../images/welcome.png');
     background-size: 100% auto;
     border-radius: 15px; /* 圓角讓它更像木板 */
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-attachment: fixe  
     max-width: 900px;
     text-align: center;
     margin: 80px auto; /* 讓區塊稍微下移，避免擠到 */
